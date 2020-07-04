@@ -1,0 +1,27 @@
+URxvt.scrollBar: false
+URxvt.internalBorder: 32
+URxvt.cursorBlink: 1
+URxvt.font: xft:Inconsolata:size=8:antialias=true
+URxvt.boldFont: xft:Inconsolata:style=Black:size=8:antialias=true
+URxvt.letterSpace: 0
+
+Xft.dpi:192
+*background: #000000
+*foreground: #ddffff
+
+*color0: #ff9c00
+*color1: #f7bd5a
+*color2: #ffcc89
+*color3: #ffff23
+*color4: #ffff9c
+*color5: #cd6363
+*color6: $cc99cc
+*color7: #ff9e63
+*color8: #646dcc
+*color9: #9c9cff
+*color10: #3399ff
+*color11: #99ccff
+*color12: #ffffcc
+*color13: #b1957a
+*color14: #ed884c
+*color15: #f5ed00
